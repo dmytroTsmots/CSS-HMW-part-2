@@ -11,15 +11,15 @@ body {
 	margin: 0 auto;
 }
 h1 {
-	font-size: 26px;
-	line-height: 30px;
+	font-size: 36px;
+	line-height: 46px;
 	color: #333;
 	font-weight: normal;
 	margin: 20px 0 10px 0;
 }
 h2 {
-	font-size: 36px;
-	line-height: 46px;
+	font-size: 26px;
+	line-height: 30px;
 	color: #333;
 	font-weight: normal;
 	font-style: italic;
@@ -67,7 +67,7 @@ h2 {
 #puzzle #img17 { top:365px; left:94px; }
 #puzzle #img18 { top:338px; left:261px; }
 #puzzle #img19 { top:375px; left:352px; }
-#puzzle #img20 { top:332px; left:616px; }
+#puzzle #img20 { top:332px; left:529px; }
 
 
 
