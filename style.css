@@ -15,7 +15,7 @@ h1 {
 	line-height: 46px;
 	color: #333;
 	font-weight: normal;
-	margin: 20px 0 10px 0;
+	margin: 20px 0 10px;
 }
 h2 {
 	font-size: 26px;
@@ -23,7 +23,7 @@ h2 {
 	color: #333;
 	font-weight: normal;
 	font-style: italic;
-	margin: 40px 0 20px 0;
+	margin: 40px 0 20px;
 }
 .fixed {
 	position: fixed;
@@ -46,7 +46,6 @@ h2 {
 }
 #puzzle img {
 	position: absolute;
-	z-index: 0;
 }
 #puzzle #img1 { top:0px; left:0px; }
 #puzzle #img2 { top:0px; left:129px; }
